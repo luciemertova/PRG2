@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="443c849d-ccb9-4e08-9e67-09cc0ce7da61" name="Changes" comment="First commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PRG2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PRG2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ArrayBasics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ArrayHarder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ArraysTasks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Bin_des.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/DoubleArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Linear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Posledni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/SearchingArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/nasobky3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_harder/DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_harder/ListInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_harder/ListPractise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_harder/Listing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_harder/MatrixPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_harder/MultiArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_harder/Multiplications.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_harder/Practise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_harder/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditions_switch/main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cycles/Ctverec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cycles/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cycles/Practise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/Basics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/OtherCall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/Practise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/Practise_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/ArcadeGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/BankAccounts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Banking_practise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/CountDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/CountryPractise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Match.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Mocnina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Osoba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Rectangle_practise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Song_practise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_references/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_references/BlackJack_game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_references/BlackJack_player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_references/Maze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_references/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_references/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Pripava_arraylist/N1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Pripava_arraylist/N2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Pripava_arraylist/N3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Pripava_arraylist/N4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Pripava_arraylist/N5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_array/Array1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_array/Array2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_array/Array3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_array/Array4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_array/Array5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_array/Array_harder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_conditions/Conditions1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_conditions/Conditions2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_conditions/Conditions3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_conditions/Conditions4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_conditions/Conditions5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_cycles/Cycles1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_cycles/Cycles2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_cycles/Cycles3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_cycles/Cycles4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_cycles/Cycles5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_methods/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_methods/M2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_methods/M3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_methods/M4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_methods/M5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_methods/M6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_methods/M7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_recursion/CRT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_recursion/CRT_practise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_recursion/Dates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_recursion/Dates_practise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_recursion/WineShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_recursion/WineShop_practise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_strings/String1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_strings/String2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_strings/String3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_strings/String4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_strings/String5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_strings/String6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_strings/String7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sibenice/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sibenice/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sibenice/Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sibenice/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/Array_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/Basics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/Building.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/Prikladky.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/Regexes_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/Rodnecislo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/Separating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/Validate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testy/Test_1/u1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testy/Test_1/u2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testy/Test_1/u3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testy/Test_2/U1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testy/Test_2/U2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testy/Test_2/U3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testy/Test_3/U1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testy/Test_3/U2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testy/Test_3/U3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testy/Test_4/U1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testy/Test_4/U2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testy/Test_4/U3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testy/Test_4/U4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testy/Test_4/U5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testy/Test_4/U6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testy/Test_4/U7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testy/Test_4/U8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testy/Test_5/U1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testy/Test_5/U2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testy/Test_5/U3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testy/Test_6/PR1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testy/Test_6/PR2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testy/Test_6/PR3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testy/Test_7/U1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testy/Test_7/U2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Uvod/conditions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Uvod/hi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Uvod/main1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2VFC9qtBCWC9Aegr2GwwcT28eQl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Array1.executor": "Run",
+    "Application.ArrayBasics.executor": "Run",
+    "Application.Listing.executor": "Run",
+    "Application.Multiplications.executor": "Run",
+    "Application.N1.executor": "Run",
+    "Application.N2.executor": "Run",
+    "Application.N3.executor": "Run",
+    "Application.N4.executor": "Run",
+    "Application.N5.executor": "Run",
+    "Application.Test_5.U2.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Lucie/OneDrive - SŠINFIS/Programování/PRG2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lucie.mertova\OneDrive - SŠINFIS\Programování\PRG2\src\Priprava_testy" />
+      <recent name="C:\Users\lucie.mertova\OneDrive - SŠINFIS\Programování\PRG2\src\Priprava_cycles" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ArrayBasics">
+    <configuration name="Array1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Priprava_testy.Priprava_array.Array1" />
+      <module name="PRG2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Priprava_testy.Priprava_cycles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.ArrayBasics" />
+      <module name="PRG2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_harder.Reverse" />
+      <module name="PRG2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array_harder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="U3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Testy.Test_1.Test_3.U3" />
+      <module name="PRG2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Testy.Test_1.Test_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nasobky3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.nasobky3" />
+      <module name="PRG2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArrayBasics" />
+        <item itemvalue="Application.Array1" />
+        <item itemvalue="Application.Reverse" />
+        <item itemvalue="Application.nasobky3" />
+        <item itemvalue="Application.U3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="443c849d-ccb9-4e08-9e67-09cc0ce7da61" name="Changes" comment="" />
+      <created>1694422294885</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694422294885</updated>
+      <workItem from="1696452608988" duration="80000" />
+      <workItem from="1699712763509" duration="57000" />
+      <workItem from="1699712869090" duration="28000" />
+      <workItem from="1699712958923" duration="522000" />
+      <workItem from="1702200725290" duration="6487000" />
+      <workItem from="1703762739313" duration="969000" />
+      <workItem from="1705342491366" duration="802000" />
+      <workItem from="1707575635882" duration="2902000" />
+      <workItem from="1707592474629" duration="1844000" />
+      <workItem from="1707600371637" duration="3527000" />
+      <workItem from="1707673190284" duration="6265000" />
+      <workItem from="1707846904301" duration="635000" />
+      <workItem from="1712078633499" duration="2000" />
+      <workItem from="1717263998590" duration="366000" />
+      <workItem from="1717264376501" duration="61000" />
+      <workItem from="1717264444294" duration="4000" />
+      <workItem from="1717264457412" duration="109000" />
+      <workItem from="1717264595639" duration="78000" />
+      <workItem from="1717264779809" duration="29000" />
+      <workItem from="1717264942953" duration="220000" />
+      <workItem from="1717265317410" duration="20000" />
+      <workItem from="1717265345585" duration="29000" />
+      <workItem from="1717265406669" duration="265000" />
+      <workItem from="1717265680249" duration="262000" />
+      <workItem from="1717265959336" duration="74000" />
+      <workItem from="1717266076641" duration="336000" />
+      <workItem from="1717267045261" duration="313000" />
+      <workItem from="1717267394333" duration="182000" />
+      <workItem from="1717267608821" duration="79000" />
+      <workItem from="1717267707041" duration="68000" />
+      <workItem from="1717267787583" duration="456000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
