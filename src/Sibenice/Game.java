@@ -8,11 +8,11 @@ public class Game {
     ArrayList<String> checked;
     final String[] POOL = {"nejkulatoulinkatejsi", "papuce", "srst", "kavovar", "chirurgie"};
     Player p;
-    Reader input;
+    Reader inputReader;
 
-    public Game(Player p, Reader input) {
+    public Game(Player p, Reader inputReader) {
         this.p = p;
-        this.input = input;
+        this.inputReader = inputReader;
     }
 
     //vygeneruje: nahodne slovo z poolu
@@ -20,6 +20,7 @@ public class Game {
     void setUpGame(){
         p.resetAttempts();
         checked = new ArrayList<>();
+        secret = pickRandomWord();
     }
 
     String pickRandomWord(){
@@ -29,4 +30,30 @@ public class Game {
         return POOL[randomIndex];
     }
 
+    void makeAGuess(){
+        System.out.println("Pokusu zbyva: " + p.attempts);
+        System.out.println("Zadej pismeno k uhadnuti : ");
+        String guess = inputReader.readInput();
+        if (secret.contains(guess)){
+            System.out.println("Pismeno uhadnuto!");
+            checked.add(guess);
+        }
+        System.out.println("Nespravna volba:(");
+    }
+
+
+    void startGame(){
+        System.out.println("Spustit hru?");
+        if (inputReader.readInput().equals("y")){
+            setUpGame();
+            System.out.println("Hra zacala");
+            while(p.attempts > 0 && checked.size() < secret.length()){
+                makeAGuess();
+            }
+        }
+        System.out.println("Hra ukoncena");
+    }
+
 }
+
+//

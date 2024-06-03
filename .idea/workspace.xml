@@ -5,143 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="443c849d-ccb9-4e08-9e67-09cc0ce7da61" name="Changes" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/PRG2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRG2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/ArrayBasics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/ArrayHarder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/ArraysTasks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Bin_des.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/DoubleArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Linear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Posledni.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/SearchingArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/nasobky3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_harder/DoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_harder/ListInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_harder/ListPractise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_harder/Listing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_harder/MatrixPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_harder/MultiArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_harder/Multiplications.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_harder/Practise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_harder/Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conditions_switch/main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cycles/Ctverec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cycles/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cycles/Practise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/Basics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/OtherCall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/Practise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/Practise_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/ArcadeGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/BankAccounts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Banking_practise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/CountDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/CountryPractise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Match.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Mocnina.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Osoba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Rectangle_practise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Song.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Song_practise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_references/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_references/BlackJack_game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_references/BlackJack_player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_references/Maze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_references/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_references/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Pripava_arraylist/N1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Pripava_arraylist/N2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Pripava_arraylist/N3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Pripava_arraylist/N4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Pripava_arraylist/N5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_array/Array1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_array/Array2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_array/Array3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_array/Array4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_array/Array5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_array/Array_harder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_conditions/Conditions1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_conditions/Conditions2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_conditions/Conditions3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_conditions/Conditions4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_conditions/Conditions5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_cycles/Cycles1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_cycles/Cycles2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_cycles/Cycles3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_cycles/Cycles4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_cycles/Cycles5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_methods/M1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_methods/M2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_methods/M3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_methods/M4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_methods/M5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_methods/M6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_methods/M7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_recursion/CRT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_recursion/CRT_practise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_recursion/Dates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_recursion/Dates_practise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_recursion/WineShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_recursion/WineShop_practise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_strings/String1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_strings/String2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_strings/String3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_strings/String4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_strings/String5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_strings/String6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Priprava_testy/Priprava_strings/String7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sibenice/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sibenice/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sibenice/Reader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sibenice/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/Array_String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/Basics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/Building.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/Prikladky.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/Regexes_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/Rodnecislo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/Separating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/Validate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testy/Test_1/u1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testy/Test_1/u2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testy/Test_1/u3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testy/Test_2/U1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testy/Test_2/U2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testy/Test_2/U3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testy/Test_3/U1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testy/Test_3/U2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testy/Test_3/U3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testy/Test_4/U1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testy/Test_4/U2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testy/Test_4/U3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testy/Test_4/U4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testy/Test_4/U5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testy/Test_4/U6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testy/Test_4/U7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testy/Test_4/U8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testy/Test_5/U1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testy/Test_5/U2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testy/Test_5/U3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testy/Test_6/PR1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testy/Test_6/PR2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testy/Test_6/PR3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testy/Test_7/U1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testy/Test_7/U2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Uvod/conditions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Uvod/hi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Uvod/main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sibenice/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sibenice/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sibenice/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sibenice/Run.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,47 +56,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Application.Array1.executor": "Run",
-    "Application.ArrayBasics.executor": "Run",
-    "Application.Listing.executor": "Run",
-    "Application.Multiplications.executor": "Run",
-    "Application.N1.executor": "Run",
-    "Application.N2.executor": "Run",
-    "Application.N3.executor": "Run",
-    "Application.N4.executor": "Run",
-    "Application.N5.executor": "Run",
-    "Application.Test_5.U2.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Lucie/OneDrive - SŠINFIS/Programování/PRG2",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Array1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayBasics.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Listing.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Multiplications.executor&quot;: &quot;Run&quot;,
+    &quot;Application.N1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.N2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.N3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.N4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.N5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test_5.U2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lucie/OneDrive - SŠINFIS/Programování/PRG2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\lucie.mertova\OneDrive - SŠINFIS\Programování\PRG2\src\Priprava_testy" />
       <recent name="C:\Users\lucie.mertova\OneDrive - SŠINFIS\Programování\PRG2\src\Priprava_cycles" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayBasics">
+  <component name="RunManager">
     <configuration name="Array1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Priprava_testy.Priprava_array.Array1" />
       <module name="PRG2" />
