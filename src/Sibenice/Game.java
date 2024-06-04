@@ -30,6 +30,10 @@ public class Game {
         return POOL[randomIndex];
     }
 
+    void printState(){
+
+    }
+
     void makeAGuess(){
         System.out.println("Pokusu zbyva: " + p.attempts);
         System.out.println("Zadej pismeno k uhadnuti : ");
@@ -37,8 +41,11 @@ public class Game {
         if (secret.contains(guess)){
             System.out.println("Pismeno uhadnuto!");
             checked.add(guess);
+        }else {
+            p.attempts--;
+            System.out.println("Nespravna volba:(");
         }
-        System.out.println("Nespravna volba:(");
+
     }
 
 
