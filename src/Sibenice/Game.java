@@ -31,26 +31,16 @@ public class Game {
     }
 
     void printState(){
-        for (int i = 0; i <secret.length() ; i++) {
+        StringBuilder state = new StringBuilder();
+        for (int i = 0; i < secret.length(); i++) {
             char s = secret.charAt(i);
-            if (checked.contains(s)){
-                System.out.println(s);
-            }else{
-                System.out.print("-");
-                p.attempts--;
+            if (checked.contains(String.valueOf(s))) {
+                state.append(s); // přidá uhádnuté písmeno do řetězce
+            } else {
+                state.append(" _ "); // přidá podtržítko, pokud písmeno ještě nebylo uhádnuto
             }
         }
-//            String s = "_" + checked.contains(secret);
-//        System.out.println("-");
-//
-//        for (int i = 0; i < secret.length(); i++) {
-//            char c = secret.charAt(i);
-//            if (checked.contains(c)) {
-//                System.out.println();
-//            } else {
-//                System.out.println("_");
-//            }
-//        }
+        System.out.println(state.toString()); // vypíše aktuální stav hádání slova
 
     }
 
