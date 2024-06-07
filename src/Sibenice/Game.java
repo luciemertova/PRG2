@@ -6,7 +6,7 @@ public class Game {
 
     String secret;
     ArrayList<String> checked;
-    final String[] POOL = {"nejkulatoulinkatejsi", "papuce", "srst", "kavovar", "chirurgie"};
+    final String[] POOL = {"strom", "inovace", "figurka", "kavovar", "infis"};
     Player p;
     Reader inputReader;
 
@@ -31,6 +31,17 @@ public class Game {
     }
 
     void printState(){
+            String s = "_" + checked.contains(secret);
+        System.out.println("-");
+
+        for (int i = 0; i < secret.length(); i++) {
+            char c = secret.charAt(i);
+            if (checked.contains(c)) {
+                System.out.println();
+            } else {
+                System.out.println("_");
+            }
+        }
 
     }
 
@@ -41,9 +52,10 @@ public class Game {
         if (secret.contains(guess)){
             System.out.println("Pismeno uhadnuto!");
             checked.add(guess);
+
         }else {
             p.attempts--;
-            System.out.println("Nespravna volba:(");
+            System.out.println("Nespravna volba:" + guess);
         }
 
     }
@@ -63,4 +75,4 @@ public class Game {
 
 }
 
-//
+
