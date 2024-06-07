@@ -31,17 +31,26 @@ public class Game {
     }
 
     void printState(){
-            String s = "_" + checked.contains(secret);
-        System.out.println("-");
-
-        for (int i = 0; i < secret.length(); i++) {
-            char c = secret.charAt(i);
-            if (checked.contains(c)) {
-                System.out.println();
-            } else {
-                System.out.println("_");
+        for (int i = 0; i <secret.length() ; i++) {
+            char s = secret.charAt(i);
+            if (checked.contains(s)){
+                System.out.println(s);
+            }else{
+                System.out.print("-");
+                p.attempts--;
             }
         }
+//            String s = "_" + checked.contains(secret);
+//        System.out.println("-");
+//
+//        for (int i = 0; i < secret.length(); i++) {
+//            char c = secret.charAt(i);
+//            if (checked.contains(c)) {
+//                System.out.println();
+//            } else {
+//                System.out.println("_");
+//            }
+//        }
 
     }
 
@@ -68,6 +77,7 @@ public class Game {
             System.out.println("Hra zacala");
             while(p.attempts > 0 && checked.size() < secret.length()){
                 makeAGuess();
+                printState();
             }
         }
         System.out.println("Hra ukoncena");
