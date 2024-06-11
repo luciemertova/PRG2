@@ -1,4 +1,4 @@
-package Testy.Konstrukce;
+package Testy.Test_8_konstrukce;
 
 public class Server {
     String nazev;
